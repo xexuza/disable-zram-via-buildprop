@@ -1,0 +1,7 @@
+#zramdisabler
+ro.config.zram=false
+ro.config.swap=false
+ro.vendor.qti.config.swap=false
+ro.vendor.qti.config.zram=false
+persist.service.zram=0
+ro.zram.default=0
